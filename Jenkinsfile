@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        DOCKER_IMAGE = "pavant049/cicd-demo:latest"
+        DOCKER_IMAGE = "pavan049/cicd-demo:latest"
     }
 
     stages {
